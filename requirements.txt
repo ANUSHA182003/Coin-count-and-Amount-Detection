@@ -1,0 +1,8 @@
+Image
+opencv-contrib-python
+pandas
+matplotlib
+seaborn
+flask
+firebase-admin
+gtts
